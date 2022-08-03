@@ -1,0 +1,5 @@
+git+https://github.com/vphpersson/http_lib.git#egg=http_lib
+git+https://github.com/vphpersson/abnf_parse.git#egg=abnf_parse
+git+https://github.com/vphpersson/ecs_tools_py.git#egg=ecs_tools_py
+git+https://github.com/vphpersson/ecs_py.git#egg=ecs_py
+PyOpenSSL==22.0.0
